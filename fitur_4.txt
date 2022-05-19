@@ -5,3 +5,12 @@ list anime movie diantaranya :
 1. GRAVE OF THE FIREFLIES
 2. PERFECT BLUE
 3. KOE NO KATACHI/A SILENT VOICE
+
+
+/* Penambahan */
+selain movie juga akan ditampilkan list anime series
+
+list anime series diantaranya :
+1. Demon Slayer: Kimetsu no Yaiba
+2. Hunter X Hunter
+3. Jujutsu Kaisen
