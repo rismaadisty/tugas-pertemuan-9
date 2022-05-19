@@ -1,0 +1,7 @@
+ini adalah fitur empat.
+rencananya fitur ini akan menampilkan list anime movie
+
+list anime movie diantaranya :
+1. GRAVE OF THE FIREFLIES
+2. PERFECT BLUE
+3. KOE NO KATACHI/A SILENT VOICE
